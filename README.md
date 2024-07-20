@@ -11,6 +11,8 @@
 
 _Get started using GitHub in less than an hour._
 
+JJP, see: 03_0 Introduction to GitHub.docx page 4.
+
 </header>
 
 <!--
